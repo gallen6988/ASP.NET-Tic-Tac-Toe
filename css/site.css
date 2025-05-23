@@ -1,0 +1,9 @@
+/*I only included this bit of css code because I was having a bit of trouble formatting the cells of the gameboard using bootstrap and I thought this would be easier than using a style attribute in the html element itself.*/
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    margin: 1px;
+}

@@ -1,0 +1,100 @@
+﻿@model TicTacToeModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--The below code sets the title of the page and links both the bootstrap and custom css stylesheets to the page.-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Grace's Tic Tac Toe</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </head>
+    <body>
+        <div class="container">
+            <!--This block of code displays a formatted header banner at the top of the page.-->
+            <header class="bg-primary text-white text-center">
+                <h1 class="m-1 p-3">Grace's Tic Tac Toe</h1>
+            </header>
+
+            <!--This if statement displays who's turn it is if a winner hasn't been determined yet.-->
+            @if(Model.WinPlayer == string.Empty) {
+                <h2 class="text-center p-3">@Model.WhosTurn's turn</h2>
+            }
+            // If only one player wins, this else statement displays who won and a "New Game" link.
+            else if(Model.WinPlayer == "tie")
+            {
+                <h2 class="bg-success text-white text-center p-3">It's a tie!</h2>
+                <p class="text-center"><a class="text-decoration-none" asp-action="Index"><b>New Game</b></a></p>
+            }
+            // If both players "win", this else-if statement displays the tie and a "New Game" link.
+            else
+            {
+                <h2 class="bg-success text-white text-center p-3">@Model.WinPlayer wins!</h2>
+                <p class="text-center"><a class="text-decoration-none" asp-action="Index"><b>New Game</b></a></p>
+            }
+
+            <!--This form element includes the gameboard and hidden input elements to pass model data back to the controller when the user hits a button after they've already hit a button once.-->
+            <form asp-action="Index" method="post">
+                <!--This is the hidden input element that helps keep track of who's turn it is.-->
+                <input type="hidden" asp-for="WhosTurn" value="@Model.WhosTurn" />
+                <!--This div element is the first row of the gameboard.-->
+                <div class="row justify-content-center">
+                    <!--The for loop below displays each cell of the first row of the gameboard.-->
+                    @for(int a = 0; a < 3; a++) {
+                        // The below input element helps keep track of any value stored in the cell.
+                        <input type="hidden" asp-for="@Model.gameboardRow0[a]" value="@Model.gameboardRow0[a]" />
+                        // If there's no value stored in the current cell's gameboard position, the cell appears as a blank and clickable button.
+                        if (Model.gameboardRow0[a] == null && Model.WinPlayer == string.Empty) {
+                            <button type="submit" class="cell" name="button" value="1 @a">
+                                    @Model.gameboardRow0[a]
+                            </button>
+                        }
+                        // If there is a value stored in the current cell's gameboard position, then it displays the value in the button and disables it.
+                        else {
+                            <button type="submit" disabled="disabled" class="cell">
+                                    @Model.gameboardRow0[a]
+                             </button>
+                        }
+                    }
+                </div>
+                <!--This div element displays the second row of the gameboard. It does pretty much everything the above div does, just for the model array that represents the second row of the gameboard (gameboardRow1)-->
+                <div class="row justify-content-center">
+                    @for(int b = 0; b < 3; b++) {
+                        <input type="hidden" asp-for="@Model.gameboardRow1[b]" value="@Model.gameboardRow1[b]" />
+                        if (Model.gameboardRow1[b] == null && Model.WinPlayer == string.Empty)
+                        {
+                            <button type="submit" class="cell" name="button" value="2 @b">
+                                    @Model.gameboardRow1[b]
+                            </button>
+                        }
+                        else {
+                            <button type="submit" disabled="disabled" class="cell">
+                                    @Model.gameboardRow1[b]
+                             </button>
+                        }
+                    }
+                </div>
+                <!--This div element does the same thing as the first and second div elements that represent gameboard rows above, it just uses gameboardRow2 in the model.-->
+                <div class="row justify-content-center">
+                    @for(int c = 0; c < 3; c++) {
+                        <input type="hidden" asp-for="@Model.gameboardRow2[c]" value="@Model.gameboardRow2[c]" />
+                        if (Model.gameboardRow2[c] == null && Model.WinPlayer == string.Empty)
+                        {
+                            <button type="submit" class="cell" name="button" value="3 @c">
+                                    @Model.gameboardRow2[c]
+                            </button>
+                        }
+                        else {
+                            <button type="submit" disabled="disabled" class="cell">
+                                    @Model.gameboardRow2[c]
+                             </button>
+                        }
+                    }
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,60 @@
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.AssemblyInfoInputs.cache
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.AssemblyInfo.cs
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.RazorAssemblyInfo.cache
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.RazorAssemblyInfo.cs
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\appsettings.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.staticwebassets.runtime.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.exe
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.deps.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.runtimeconfig.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.dll
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.pdb
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.FinalProjectTicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalProjectTicTacToe.props
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectTicTacToe.props
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalProjectTicTacToe.props
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\scopedcss\bundle\FinalProjectTicTacToe.styles.css
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.dll
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\refint\FinalProjectTicTacToe.dll
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.pdb
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.genruntimeconfig.cache
+C:\Users\grace\C++ Class\Unit 7\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\ref\FinalProjectTicTacToe.dll
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.AssemblyInfoInputs.cache
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.AssemblyInfo.cs
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.RazorAssemblyInfo.cache
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.RazorAssemblyInfo.cs
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.dll
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\refint\FinalProjectTicTacToe.dll
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.pdb
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\appsettings.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.staticwebassets.runtime.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.exe
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.deps.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.runtimeconfig.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.dll
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.pdb
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.FinalProjectTicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalProjectTicTacToe.props
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectTicTacToe.props
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalProjectTicTacToe.props
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\scopedcss\bundle\FinalProjectTicTacToe.styles.css
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\FinalProjectTicTacToe.genruntimeconfig.cache
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\ref\FinalProjectTicTacToe.dll
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\bin\Debug\net8.0\FinalProjectTicTacToe.staticwebassets.endpoints.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets\msbuild.FinalProjectTicTacToe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\grace\ASP.NET With C#\Final Assignment\FinalProjectTicTacToe\FinalProjectTicTacToe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
